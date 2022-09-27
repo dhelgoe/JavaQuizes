@@ -1,0 +1,27 @@
+.hide {
+    display: none;
+
+
+}
+
+.button{
+    color: red;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.H{
+    display:flex;
+    justify-content: center;
+    padding: 0;
+    color:black;
+    font-size: 50px;
+    background-color: aqua;
+}
+
+.page {
+    justify-content: center;
+    background-color: grey;
+}
