@@ -1,13 +1,3 @@
 # JavaQuizes
 
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
+A javascript quiz counting down from 2 minutes. Everytime you get a question wrong you lose time, at the end you will have a final time score and that will go into a highscore table. Right now the questions are Formula 1 questions to have some fun and challenge friends.
